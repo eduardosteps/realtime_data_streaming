@@ -1,7 +1,7 @@
 # Real-Time Streaming Data Pipeline
 
 ## Overview
-This project implements a real-time streaming data pipeline using Apache Airflow, RabbitMQ, and MongoDB within a Dockerized environment. It's designed to fetch data from an external API, process it, and store it for further analysis or real-time applications.
+This project was developed by Eduardo Passos, and it implements a real-time streaming data pipeline using Apache Airflow, RabbitMQ, and MongoDB within a Dockerized environment. It's designed to fetch data from an external API, process it, and store it for further analysis or real-time applications.
 
 ## Architecture
 
