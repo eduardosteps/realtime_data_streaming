@@ -5,7 +5,7 @@ This project implements a real-time streaming data pipeline using Apache Airflow
 
 ## Architecture
 
-<image_here>
+<img src="img/archtecture.png">
 
 
 ### Components
