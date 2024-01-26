@@ -1,15 +1,15 @@
-from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-import requests
-import pika
-import json
+from datetime import datetime, timedelta
 from pymongo import MongoClient
+import json
+import pika
+import requests
 
 default_args = {
     'owner': 'Eduardo Passos',
     'depends_on_past': False,
-    'start_date': datetime(2024, 1, 1),
+    'start_date': datetime(2024, 1, 27),
     'email_on_failure': False,
     'email_on_retry': False,
     'retries': 1,
