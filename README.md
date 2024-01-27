@@ -38,10 +38,6 @@ This project was developed by Eduardo Passos, and it implements a real-time stre
    - **Purpose**: Provides a user interface to monitor and manage the Airflow DAGs.
    - **Benefits**: Enhances the user experience with easy monitoring and operational capabilities for the data pipeline.
 
-## Setup
-
-To set up and run this pipeline, I used Docker and Docker Compose and a Dockerfile to install the necessary libs.
-
 ## Conclusion
 
 This real-time streaming data pipeline leverages modern data engineering tools to efficiently process and store data, ensuring scalability, reliability, and ease of monitoring and management.
